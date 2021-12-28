@@ -69,8 +69,8 @@ console.log(`userName: ${userName} \n isAdult: ${isAdult} \n userProfession: ${u
   - Log using console.log [numA - numB]
   - Log using console.log [numA * numB]
 */
-let numA = 01
-let numB = 19
+let numA = Number (prompt("enter first number"));
+let numB = Number (prompt("enter second number"));
 
 alert(numA + numB);
 
