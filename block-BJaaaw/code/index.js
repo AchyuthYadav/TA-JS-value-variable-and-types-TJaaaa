@@ -169,15 +169,15 @@ if(salary <= 20000){
   alert(`Inhand amount is ${salary- .3*salary}`);
 }
 
-let salary = +prompt(`enter your salary`)
+// let salary = +prompt(`enter your salary`)
 
-if(salary <= 20000){
-alert(`In hand amount ${salary- 0.1*salary}`);
-}else if(salary > 20000 && salary <= 40000){
-alert(`In hand amount ${salary- 0.2*salary}`);
-}else if(salary > 40000){
-alert(`In hand amount ${salary- 0.3*salary}`);
-}
+// if(salary <= 20000){
+// alert(`In hand amount ${salary- 0.1*salary}`);
+// }else if(salary > 20000 && salary <= 40000){
+// alert(`In hand amount ${salary- 0.2*salary}`);
+// }else if(salary > 40000){
+// alert(`In hand amount ${salary- 0.3*salary}`);
+// }
 
 
 //  if..else vs switch
