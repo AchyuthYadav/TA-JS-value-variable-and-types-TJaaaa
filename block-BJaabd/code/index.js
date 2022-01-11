@@ -10,6 +10,16 @@ Write a program that asks the user his/her age and check for the following condi
 - `if` the age is greater than 55 then print the message " You are too old to participate in the marthon".
 👇
 */
+let age = +prompt(`enter your age`)
+
+if(age ){
+  alert(`You can participate in the marathon`)
+}else if(){
+  alert(`You are too young to participate in the marathon`)
+}
+
+
+
 
 // Loops
 /*
